@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Stokes_steady_2D_model1.dir/Stokes_steady_2D_model1.cpp.o  -o Stokes_steady_2D_model1  -lpython3.8 

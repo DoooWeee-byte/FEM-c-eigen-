@@ -1,0 +1,8 @@
+C:70
+N:2
+error_max_u:35.5424
+error_max_v:13.5791
+error_L2_u:10.8607
+error_L2_v:4.7609
+errorH1_u:158.621
+errorH1_v:73.0436

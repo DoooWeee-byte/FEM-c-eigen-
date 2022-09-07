@@ -1,0 +1,7 @@
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/KS_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/KS_2D/CMakeFiles/Eigen_test1.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/KS_2D/CMakeFiles/FE_Dirichlet_2D.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/KS_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS模型_2维/build/KS_2D/CMakeFiles/KS_2D_test1.dir

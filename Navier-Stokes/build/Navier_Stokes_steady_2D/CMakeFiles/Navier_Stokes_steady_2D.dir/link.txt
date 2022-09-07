@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Navier_Stokes_steady_2D.dir/Navier_Stokes_steady_2D.cpp.o  -o Navier_Stokes_steady_2D  -lpython3.8 

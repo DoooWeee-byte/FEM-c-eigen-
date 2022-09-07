@@ -1,0 +1,5 @@
+/home/pangdongwen/文档/程序文件/有限元/1D/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/1D/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/1D/build/Poisson/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/1D/build/Poisson/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/1D/build/Poisson/CMakeFiles/FE_Dirich_Neu_1D.dir

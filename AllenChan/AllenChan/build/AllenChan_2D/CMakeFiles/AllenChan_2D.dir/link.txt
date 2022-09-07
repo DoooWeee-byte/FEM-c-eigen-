@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/AllenChan_2D.dir/AllenChan_2D.cpp.o  -o AllenChan_2D  -lpython3.8 

@@ -1,0 +1,5 @@
+/home/pangdongwen/文档/程序文件/有限元/Navier-Stokes_Unsteady/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Navier-Stokes_Unsteady/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Navier-Stokes_Unsteady/build/Navier_Stokes_Unsteady_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Navier-Stokes_Unsteady/build/Navier_Stokes_Unsteady_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Navier-Stokes_Unsteady/build/Navier_Stokes_Unsteady_2D/CMakeFiles/Navier_Stokes_Unsteady_2D_64.dir

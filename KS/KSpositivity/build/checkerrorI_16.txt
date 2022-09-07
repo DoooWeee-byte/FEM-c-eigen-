@@ -1,0 +1,7 @@
+time:0  min:6.98765e-37
+error_max_u:40.3031
+error_max_v:6.57229
+error_L2_u:3.23141
+error_L2_v:0.571766
+errorH1_u:222.988
+errorH1_v:27.7854

@@ -1,0 +1,7 @@
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/KsPositivityCheck/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/KsPositivityCheck/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/KsPositivityCheck/CMakeFiles/plotOrder.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/KsPositivityCheck/CMakeFiles/Kserrorcheck1_plt.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSpositivity/build/KsPositivityCheck/CMakeFiles/Kserrorcheck_11.dir

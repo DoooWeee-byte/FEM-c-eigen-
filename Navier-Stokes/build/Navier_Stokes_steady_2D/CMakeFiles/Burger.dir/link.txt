@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Burger.dir/Burger.cpp.o  -o Burger  -lpython3.8 

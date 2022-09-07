@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/KsMini_Ex_Steady.dir/KsMini_Ex_Steady.cpp.o  -o KsMini_Ex_Steady  -lpython3.8 

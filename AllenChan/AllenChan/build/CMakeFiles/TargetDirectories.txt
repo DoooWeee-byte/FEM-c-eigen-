@@ -1,0 +1,5 @@
+/home/pangdongwen/文档/程序文件/有限元/AllenChan/AllenChan/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/AllenChan/AllenChan/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/AllenChan/AllenChan/build/AllenChan_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/AllenChan/AllenChan/build/AllenChan_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/AllenChan/AllenChan/build/AllenChan_2D/CMakeFiles/AllenChan_2D.dir

@@ -1,0 +1,5 @@
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Unsteady/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Unsteady/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Unsteady/build/Stokes_Unsteady_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Unsteady/build/Stokes_Unsteady_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Unsteady/build/Stokes_Unsteady_2D/CMakeFiles/Stokes_Unsteady_2D.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Kserrorcheck1.dir/Kserrorcheck1.cpp.o  -o Kserrorcheck1  -lpython3.8 

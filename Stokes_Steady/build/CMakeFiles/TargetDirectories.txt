@@ -1,0 +1,6 @@
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/Stokes_steady_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/Stokes_steady_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/Stokes_steady_2D/CMakeFiles/Stokes_steady_2D_model1.dir
+/home/pangdongwen/文档/程序文件/有限元/Stokes_Steady/build/Stokes_steady_2D/CMakeFiles/Stokes_steady_2D.dir

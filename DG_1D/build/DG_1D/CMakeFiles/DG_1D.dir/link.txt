@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/DG_1D.dir/DG_1D.cpp.o  -o DG_1D  -lpython3.8 

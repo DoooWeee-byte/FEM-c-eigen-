@@ -1,0 +1,9 @@
+
+
+#add_executable(Navier_Stokes_Unsteady_2D Navier_Stokes_Unsteady_2D.cpp)
+#target_include_directories(Navier_Stokes_Unsteady_2D PRIVATE ${PYTHON_INCLUDE_DIRS})
+#target_link_libraries(Navier_Stokes_Unsteady_2D ${PYTHON_LIBRARIES})
+
+add_executable(Navier_Stokes_Unsteady_2D_64 Navier_Stokes_Unsteady_2D_64.cpp)
+target_include_directories(Navier_Stokes_Unsteady_2D_64 PRIVATE ${PYTHON_INCLUDE_DIRS})
+target_link_libraries(Navier_Stokes_Unsteady_2D_64 ${PYTHON_LIBRARIES})

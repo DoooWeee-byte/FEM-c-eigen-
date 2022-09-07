@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/KS_2D_test1.dir/KS_2D_test1.cpp.o  -o KS_2D_test1  -lpython3.8 

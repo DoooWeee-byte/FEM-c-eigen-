@@ -1,0 +1,5 @@
+热方程的主程序:  FEMethod_2D/FE_heat_2D.cpp
+
+库文件：include/
+
+可执行文件：build/FEMethod_2D/FE_heat_2D

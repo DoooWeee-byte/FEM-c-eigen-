@@ -1,0 +1,6 @@
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/FEMethod_2D/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/FEMethod_2D/CMakeFiles/FE_wave_2D.dir
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/FEMethod_2D/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/heat_wave_2D/build/FEMethod_2D/CMakeFiles/FE_heat_2D.dir

@@ -1,0 +1,9 @@
+StepH: 0.015625
+MaxNewtonIterationNumber: 49
+IterationError: 6.65694e-08
+error_max_u:3.41538e-06
+error_max_p:0.0023209
+error_L2_u:9.25552e-07
+error_L2_p:0.00022546
+errorH1_u:0.000232796
+errorH1_p:0.156661

@@ -1,0 +1,6 @@
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/KsMini_Ex/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/KsMini_Ex/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/KsMini_Ex/CMakeFiles/KsMini_Ex_Steady.dir
+/home/pangdongwen/文档/程序文件/有限元/KS/KSminiExtrapolation1/build/KsMini_Ex/CMakeFiles/KsMini_Ex.dir

@@ -1,0 +1,9 @@
+StepH:0.125
+StepT: 0.03125
+Theta: 0.5
+error_max_u:0.00159774
+error_max_p:0.157122
+error_L2_u:0.000481437
+error_L2_p:0.0410189
+errorH1_u:0.0125678
+errorH1_p:1.23407

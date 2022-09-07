@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/KsPosCheck.dir/KsPosCheck.cpp.o  -o KsPosCheck  -lpython3.8 

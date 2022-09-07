@@ -1,0 +1,7 @@
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/Poisson/CMakeFiles/rebuild_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/Poisson/CMakeFiles/edit_cache.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/Poisson/CMakeFiles/FE_Di_Neumann_2D.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/Poisson/CMakeFiles/FE_Di_Robin_2D.dir
+/home/pangdongwen/文档/程序文件/有限元/Poisson_2D/build/Poisson/CMakeFiles/FE_Dirichlet_2D.dir
